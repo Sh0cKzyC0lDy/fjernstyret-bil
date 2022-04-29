@@ -31,3 +31,4 @@ let Fart = 0
 radio.setGroup(1)
 Fart = 50
 Speed = 255
+music.playMelody("- - - - - G A C5 ", 320)
